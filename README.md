@@ -2,7 +2,7 @@
 ===========
 
 ```
-爱奇艺视频地址
+Android Fragment 生命周期 
 http://www.iqiyi.com/w_19rv0hp3t9.html#vfrm=16-1-1-1
 ```
 
