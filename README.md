@@ -1,11 +1,9 @@
 项目视频介绍 
 ===========
 
-```
-Android Fragment 生命周期 
-http://www.iqiyi.com/w_19rv0hp3t9.html#vfrm=16-1-1-1
-```
-
+|#|标题|视频地址|
+|---|----|-----|
+|1|`安卓Fragment的生命周期并回顾Activity的生命周期`|http://www.iqiyi.com/w_19rv0hp3t9.html|
 
 
 ![](https://github.com/githubwwj/FragmentLifecycle/blob/master/生命周期截图/创建Fragment.png) 
